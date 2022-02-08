@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Project
+> Anaysing the dips in the revenues due to the ongoing Corona pandemic of a bike sharing provider.
 
 
 ## Table of Contents
